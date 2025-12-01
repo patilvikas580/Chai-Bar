@@ -4,8 +4,19 @@ A modern, dynamic, and fully responsive **React website** designed especially fo
 This project offers a vibrant UI, smooth animations, and an elegant user experience for browsing menus, viewing the gallery, and booking tables.
 
 ## 🌄 Preview
-<!-- Replace this with your actual screenshot -->
-![Website Screenshot](https://your-image-link-here.com)
+<img width="1910" height="867" alt="image" src="https://github.com/user-attachments/assets/007de084-7e99-4a18-b15f-1649c2681362" />
+<img width="1907" height="857" alt="image" src="https://github.com/user-attachments/assets/98c181a1-f54a-4fa1-8501-d46b5810fbc6" />
+<img width="1908" height="857" alt="image" src="https://github.com/user-attachments/assets/c7680b4c-a01a-47a5-b350-cea76da46e1c" />
+<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/6650bff9-247a-4fdc-b8fa-e37092e803ad" />
+<img width="1906" height="847" alt="image" src="https://github.com/user-attachments/assets/b5a4f155-aad3-4c26-ac92-f1363648b644" />
+<img width="1888" height="791" alt="image" src="https://github.com/user-attachments/assets/e824faba-f7b9-44c4-9306-d8cb8e8a3079" />
+<img width="1913" height="866" alt="image" src="https://github.com/user-attachments/assets/cf0f0a73-63c1-4a4e-ba23-53dc9a5a6f61" />
+
+
+
+
+
+
 
 ## ✨ Features
 
